@@ -1,0 +1,33 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+body{
+    text-align: center;
+    background-color: plum;
+}
+#benefits{
+    width: 800px;
+    margin-left: 350px;
+    color: mediumvioletred;
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
+.steps{
+    width: 800px;
+    text-align: left;
+    margin-left: 540px;
+    color: darkgreen;
+    font: 20px;
+}
+li:nth-child(2){
+    color: red;
+}
+li:nth-child(3){
+    color: blue;
+}
+hr{
+    background-color: black;
+}
